@@ -32,6 +32,6 @@ aws-labs/
 
 ## 🔗 Connect
 - GitHub: https://github.com/Papa-Jay15
-- LinkedIn: (http://linkedin.com/in/jerry-owusu-adjinah-a72531427)
+- LinkedIn: https://www.linkedin.com/in/jerry-owusu-adjinah-a72531427
 
-> "Learning in public" - documenting everything I build .
+> "Learning in public" - documenting everything I build.
